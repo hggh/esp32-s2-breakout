@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name esp32s2)(type Legacy)(uri /home/jonas/entwicklung/kicad-libraries/ESP32-S2-WROOM.lib)(options "")(descr ""))
+  (lib (name esp32prog)(type Legacy)(uri /home/jonas/entwicklung/kicad-libraries/esp32-prog-header.lib)(options "")(descr ""))
+)
