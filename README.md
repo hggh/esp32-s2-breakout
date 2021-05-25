@@ -7,7 +7,7 @@ ESP32-S2-WROOM breakout
 
 | number | name |
 |---| ---|
-| C1 | tantalum cap 220µF SMD EIA-7343-31 |
+| C1 | tantalum cap 220µF SMD EIA-7343-31 (Kemet-D) |
 | C2 | ceramic cap 100 nF SMD 0805 |
 | C3 | ceramic cap 0.1 µF SMD 0805 |
 | R1,R2 | 10k SMD 0805 |
