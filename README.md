@@ -1,6 +1,10 @@
 # ESP 32 S2 breakout board
 
-ESP32 S2 WROOM breakout board. IO 18 is pulled high by R2 to ensure a correct ESP32 S2 startup.
+ESP32 S2 WROOM breakout board.
+
+IO 18 is pulled high by R2 to ensure a correct ESP32 S2 startup.
+
+breakout board has no LDO onboard to test low power applications with an external LDO or just use 3.3V from your USB ttl.
 
 
 
