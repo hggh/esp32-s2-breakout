@@ -1,5 +1,6 @@
-# esp32-s2-breakout
-ESP32-S2-WROOM breakout
+# ESP 32 S2 breakout board
+
+ESP32 S2 WROOM breakout board. IO 18 is pulled high by R2 to ensure a correct ESP32 S2 startup.
 
 
 
